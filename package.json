@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lect2": "nodemon src/lecture02/server.js"
+    "lect2": "nodemon src/lecture02/server.js",
+    "lect3": "nodemon src/lecture03/server.js"
   },
   "keywords": [],
   "author": "",

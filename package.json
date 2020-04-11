@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lect2": "nodemon src/lecture02/server.js",
-    "lect3": "nodemon src/lecture03/server.js"
+    "lect3": "nodemon src/lecture03/server.js",
+    "lect4": "nodemon src/lecture04/server.js & ecstatic src/lecture04/evil --port 4000"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
+    "ecstatic": "^4.1.4",
     "express": "^4.17.1"
   }
 }

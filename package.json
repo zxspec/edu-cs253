@@ -6,7 +6,8 @@
   "scripts": {
     "lect2": "nodemon src/lecture02/server.js",
     "lect3": "nodemon src/lecture03/server.js",
-    "lect4": "nodemon src/lecture04/server.js & ecstatic src/lecture04/evil --port 4000"
+    "lect4": "nodemon src/lecture04/server.js & ecstatic src/lecture04/evil --port 4000",
+    "lect4-2": "ecstatic src/lecture04/fragment-communication/ --port 4000 & ecstatic src/lecture04/fragment-communication/ --port 5000"
   },
   "keywords": [],
   "author": "",

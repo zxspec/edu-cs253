@@ -8,7 +8,10 @@
     "lect3": "nodemon src/lecture03/server.js",
     "lect4": "nodemon src/lecture04/server.js & ecstatic src/lecture04/evil --port 4000",
     "lect4-2": "ecstatic src/lecture04/fragment-communication/ --port 4000 & ecstatic src/lecture04/fragment-communication/ --port 5000",
-    "lect4-3": "ecstatic src/lecture04/post-message/ --port 4000 & ecstatic src/lecture04/post-message/ --port 5000"
+    "lect4-3": "ecstatic src/lecture04/post-message/ --port 4000 & ecstatic src/lecture04/post-message/ --port 5000",
+    "lect5": "nodemon src/lecture05/server-xss-vulnerable.js",
+    "lect5-secure": "nodemon src/lecture05/server.js",
+    "lect6": "nodemon src/lecture06/server.js"
   },
   "keywords": [],
   "author": "",
@@ -21,6 +24,7 @@
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
     "ecstatic": "^4.1.4",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "html-escape": "^2.0.0"
   }
 }

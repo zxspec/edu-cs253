@@ -24,7 +24,7 @@
     "body-parser": "^1.20.1",
     "cookie-parser": "^1.4.5",
     "ecstatic": "^4.1.4",
-    "express": "^4.20.0",
+    "express": "^5.0.0",
     "html-escape": "^2.0.0"
   }
 }

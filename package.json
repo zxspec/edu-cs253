@@ -21,7 +21,7 @@
     "prettier": "^2.0.4"
   },
   "dependencies": {
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.3",
     "cookie-parser": "^1.4.5",
     "ecstatic": "^4.1.4",
     "express": "^5.0.0",
